@@ -1,0 +1,27 @@
+/*!
+ * Start Bootstrap - The Big Picture (https://startbootstrap.com/template-overviews/the-big-picture)
+ * Copyright 2013-2019 Start Bootstrap
+ * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-the-big-picture/blob/master/LICENSE)
+ */
+.imageBackground {
+  position: fixed;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+}
+
+.bodyTemplate {
+  background-size: cover;
+  
+}
+
+.cambiarTexto {
+  font-size: 40px;
+  font-family: 'Lucida Sans';
+  color: red;
+  font-weight: 100;
+}
